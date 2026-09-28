@@ -1,0 +1,43 @@
+feature,psi,status
+sensor_11_rollmean,2.4025363242253173,significant drift
+sensor_4_rollmean,2.197447550147604,significant drift
+sensor_12_rollmean,2.176534191170225,significant drift
+sensor_21_rollmean,2.062088482496797,significant drift
+sensor_20_rollmean,2.032090382143568,significant drift
+sensor_15_rollmean,2.0235961524699473,significant drift
+sensor_3_rollmean,1.9714514800045204,significant drift
+sensor_7_rollmean,1.959840594033597,significant drift
+sensor_17_rollmean,1.958477515493175,significant drift
+sensor_2_rollmean,1.8203815317343928,significant drift
+sensor_11,1.7599563257424244,significant drift
+sensor_4,1.6989856676293165,significant drift
+sensor_12,1.6200393500454002,significant drift
+sensor_7,1.503849160126033,significant drift
+sensor_20,1.479026094576756,significant drift
+sensor_21,1.4447648099272639,significant drift
+sensor_15,1.4317803321801095,significant drift
+sensor_3,1.2357491914437952,significant drift
+sensor_2,1.2339456127064787,significant drift
+sensor_17,1.2216431861366444,significant drift
+sensor_8_rollmean,1.220316688220743,significant drift
+sensor_13_rollmean,1.215213619942528,significant drift
+sensor_13,0.9747293390160183,significant drift
+sensor_9_rollmean,0.9136100782688386,significant drift
+sensor_8,0.8975853499844941,significant drift
+sensor_9,0.8455701836988574,significant drift
+sensor_14_rollmean,0.6965561806757768,significant drift
+sensor_14,0.6335335497303838,significant drift
+sensor_14_rollstd,0.13557626998022965,moderate drift
+sensor_20_rollstd,0.12435537328651396,moderate drift
+sensor_4_rollstd,0.12190927798176776,moderate drift
+sensor_3_rollstd,0.11862506010650724,moderate drift
+sensor_17_rollstd,0.11543900737445317,moderate drift
+sensor_15_rollstd,0.11518361951504305,moderate drift
+sensor_21_rollstd,0.10997976020866906,moderate drift
+sensor_13_rollstd,0.109216099870249,moderate drift
+sensor_8_rollstd,0.08852392448981737,stable
+sensor_12_rollstd,0.08791360736838619,stable
+sensor_7_rollstd,0.08384403971199966,stable
+sensor_2_rollstd,0.07157116185232326,stable
+sensor_9_rollstd,0.07023153370704212,stable
+sensor_11_rollstd,0.0496038397696621,stable
